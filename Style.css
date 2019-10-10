@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    margin:auto;
+    text-align:center;
+}
+.title{
+    background-color: #66bfbf;
+    color:white;
+}
+.hero{
+    margin-top: 50px;
+}
+.btn{
+     width:50px;
+     height:20px;
+     background-color:#11999E;
+     color:white;
+     border:none;
+     
+}
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
